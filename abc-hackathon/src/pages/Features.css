@@ -1,0 +1,21 @@
+.features {
+    padding: 50px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .features h2 {
+    font-size: 2.2em;
+    margin-bottom: 20px;
+  }
+  
+  .features ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    font-size: 1.2em;
+  }
+  
+  .features ul li {
+    margin: 10px 0;
+  }
+  

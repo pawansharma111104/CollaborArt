@@ -1,0 +1,26 @@
+.home {
+  text-align: center;
+  padding: 50px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.home h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.home p {
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+.home ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.home ul li {
+  font-size: 1.1em;
+  margin: 10px 0;
+}
